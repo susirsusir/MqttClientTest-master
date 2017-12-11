@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MqttClientTest</string>
+    <string name="send">发送</string>
+    <string name="input_your_message">输入你想说的话</string>
+</resources>
